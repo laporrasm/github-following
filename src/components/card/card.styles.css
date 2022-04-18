@@ -1,0 +1,14 @@
+.avatar {
+  max-width: 180px;
+  border-radius: 50%;
+}
+
+.card {
+  padding: 1.5em;
+  background-color: #2c2929;
+  border-radius: 8px;
+}
+
+.info + .info {
+  margin-top: .5em;
+}
